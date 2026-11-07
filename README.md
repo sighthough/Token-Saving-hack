@@ -1,6 +1,27 @@
 # Token-Saving-hack
 here we present a way to save tokens in llm's 
 
+The main idea about it is , since we have static text that the ai has to read over every single time 
+
+(its system instructions and what not ) every time it tries to make a new post
+
+we thought, what if we cached that ?!
+
+after consulting good ol gemini we got the following set up 
+
+you can come to your own solutions with your own ai now that you have the idea tho ! 
+
+feel free to experiment with it !!
+
+*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and [Googles Gemini](https://www.youtube.com/shorts/R3Qo4rBgrD8).*
+
+
+
+
+
+
+
+AI made guide on an example of implementation : 
 
 Here is a complete architectural specification for AI engineers or system architects to implement **Prefix KV-Caching with Dynamic System Instruction Pre-Warming**.
 
