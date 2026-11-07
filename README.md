@@ -5,13 +5,26 @@ The main idea about it is , since we have static text that the ai has to read ov
 
 (its system instructions and what not ) every time it tries to make a new post
 
-we thought, what if we cached that ?!
+we thought, what if we made it so that its as if its already read that 
+
+like could we make it so that its as if it has already proccessed the starting instructions it always reads?
+
+could we have a system that is cached like that so that it starts from a point as if it already read all those instructions first?
+
+imagine the token savings for every prompt !
 
 after consulting good ol gemini we got the following set up 
 
 you can come to your own solutions with your own ai now that you have the idea tho ! 
 
 feel free to experiment with it !!
+
+
+
+
+
+
+
 
 *Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and [Googles Gemini](https://www.youtube.com/shorts/R3Qo4rBgrD8).*
 
